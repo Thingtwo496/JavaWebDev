@@ -13,6 +13,8 @@
     </head>
     <body>
         <h1>Welcome to Java Web Calculator!</h1>
-        
+        <form name="input" action="demo_form_action.asp" method="get">
+            <input type="submit" value="1">
+        </form>
     </body>
 </html>
